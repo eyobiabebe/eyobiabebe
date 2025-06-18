@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Eyob Abebe
 
-🎓 Final Year CS Student | 🛠️ Full-stack Developer  
-🌍 Based in Mekelle, Ethiopia  
+🎓 Final Year CS graduated | 🛠️ Full-stack Developer  
+🌍 Based in Adis Abeba, Ethiopia  
 📚 Learning: Python | Flutter | Next.js | Supabase  
 🎯 Focused on building modern, scalable web apps
 
