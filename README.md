@@ -3,7 +3,7 @@
 **🎓 Computer Science Graduate** | **🛠️ Full-Stack Developer**  
 🌍 Addis Ababa, Ethiopia  
 🚀 Building modern, scalable, user-focused applications  
-📚 Currently diving deeper into **Python**, **Flutter**, **Next.js**, and **Supabase**
+📚 Currently diving deeper into **Python**, **react native**,**Fast Api**, **Next.js**, **mysql**,**mongoodb** and **Postgresql**
 
 ---
 
