@@ -1,4 +1,4 @@
-# 👋 Eyob Abebe
+# 👋 Hi I'm Eyob Abebe(Eyobii)
 
 **🎓 Computer Science Graduate** | **🛠️ Full-Stack Developer**  
 🌍 Addis Ababa, Ethiopia  
