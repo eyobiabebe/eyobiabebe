@@ -20,8 +20,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Eyob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyobabebe&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyobabebe&layout=compact&theme=radical)
+![Eyob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyobiabebe&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyobiabebe&layout=compact&theme=radical)
 
 ---
 
